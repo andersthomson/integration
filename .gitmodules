@@ -1,0 +1,3 @@
+[submodule "testlib_ca"]
+	path = testlib_ca
+	url = https://github.com/andersthomson/testlib_ca.git
